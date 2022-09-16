@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - image: ravi6490/docker-demo:v1
-        name: learning-prometheus
+        name: learning-kubernetes
         ports:
         - name: http
           containerPort: 8080
